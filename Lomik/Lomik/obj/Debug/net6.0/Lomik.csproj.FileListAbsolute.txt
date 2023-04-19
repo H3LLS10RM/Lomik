@@ -1,0 +1,15 @@
+C:\Users\-\source\repos\Lomik\Lomik\bin\Debug\net6.0\Lomik.exe
+C:\Users\-\source\repos\Lomik\Lomik\bin\Debug\net6.0\Lomik.deps.json
+C:\Users\-\source\repos\Lomik\Lomik\bin\Debug\net6.0\Lomik.runtimeconfig.json
+C:\Users\-\source\repos\Lomik\Lomik\bin\Debug\net6.0\Lomik.dll
+C:\Users\-\source\repos\Lomik\Lomik\bin\Debug\net6.0\Lomik.pdb
+C:\Users\-\source\repos\Lomik\Lomik\obj\Debug\net6.0\Lomik.csproj.AssemblyReference.cache
+C:\Users\-\source\repos\Lomik\Lomik\obj\Debug\net6.0\Lomik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\-\source\repos\Lomik\Lomik\obj\Debug\net6.0\Lomik.AssemblyInfoInputs.cache
+C:\Users\-\source\repos\Lomik\Lomik\obj\Debug\net6.0\Lomik.AssemblyInfo.cs
+C:\Users\-\source\repos\Lomik\Lomik\obj\Debug\net6.0\Lomik.csproj.CoreCompileInputs.cache
+C:\Users\-\source\repos\Lomik\Lomik\obj\Debug\net6.0\Lomik.dll
+C:\Users\-\source\repos\Lomik\Lomik\obj\Debug\net6.0\refint\Lomik.dll
+C:\Users\-\source\repos\Lomik\Lomik\obj\Debug\net6.0\Lomik.pdb
+C:\Users\-\source\repos\Lomik\Lomik\obj\Debug\net6.0\Lomik.genruntimeconfig.cache
+C:\Users\-\source\repos\Lomik\Lomik\obj\Debug\net6.0\ref\Lomik.dll
